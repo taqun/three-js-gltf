@@ -1,0 +1,16 @@
+{
+  "name": "three-js-gltf",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "three": "^0.151.3",
+    "tween.js": "^16.6.0",
+    "vite": "^4.3.0"
+  }
+}
